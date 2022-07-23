@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sytone</h1>
 <h3 align="center">Principal Group Engineering Manager @microsoft in the US. Worked across Azure and Services and love to tinker with pretty much everything.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sytone&label=Profile%20views&color=0e75b6&style=flat" alt="sytone" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sytone" alt="sytone" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sytone" target="blank"><img src="https://img.shields.io/twitter/follow/sytone?logo=twitter&style=for-the-badge" alt="sytone" /></a> </p>
 
 - 🔭 I’m currently working on **a new azure product and other things**
@@ -34,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sytone&show_icons=true&locale=en&layout=compact" alt="sytone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sytone&show_icons=true&locale=en" alt="sytone" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sytone&" alt="sytone" /></p>
