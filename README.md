@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sytone</h1>
+<h1 align="center">Hi 👋, I'm Jon</h1>
 
 <h3 align="center">Principal Group Engineering Manager @microsoft in the US. Worked across Azure and Services and love to tinker with pretty much everything.</h3>
 
